@@ -94,13 +94,16 @@ img {
 }
 
 .hero-bio a {
-  color: var(--link);
+  color: inherit;
   text-decoration: underline;
-  text-underline-offset: 3px;
+  text-decoration-color: #c9541e;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 4px;
+  transition: text-decoration-color 0.15s ease;
 }
 
 .hero-bio a:hover {
-  opacity: 0.75;
+  text-decoration-color: #8f3a13;
 }
 
 /* === Projects === */
