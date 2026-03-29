@@ -83,6 +83,8 @@ category: "Writing"
 <details>
 <summary>HALLMARK SPECIAL: "Local Hometown TV Star" — Live Action</summary>
 
+<a href="/scripts/hallmark-special-v1.pdf" class="btn" target="_blank" rel="noopener noreferrer">Read Full Script (PDF)</a>
+
 Collaborated with comedian Rena Hundert.
 
 **Log Line:** When ambitious actress Rena returns to her small hometown to care for her ailing father, financial pressure forces her to enter the town's centennial history competition run by her high school rival-turned-local-mayor Blake — rekindling old feelings and small-town connections even as she faces devastating defeat in the final round.
@@ -92,6 +94,8 @@ Collaborated with comedian Rena Hundert.
 **Format:** TV movie with potential sequel opportunities.
 
 </details>
+
+<div class="writing-divider">In Development</div>
 
 <details>
 <summary>DRAMA CAMP — YA Animation</summary>
