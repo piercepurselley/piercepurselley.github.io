@@ -128,6 +128,8 @@ Collaborated with comedian Chrissy Shackelford.
 <details>
 <summary>LAND BEFORE CRIME — Adult Claymation</summary>
 
+Collaborated with comedian Gerard Dean Peters.
+
 **Log Line:** When Batman and Littlefoot swap consciousness through a quantum accident, Batman must navigate prehistoric dangers to return home, while Littlefoot — reveling in modern Gotham's luxuries — inadvertently becomes the city's newest supervillain, threatening both their worlds as the dimensional rift widens.
 
 **Platform:** Adult animation (Adult Swim, HBO Max) · Adults 18–34
