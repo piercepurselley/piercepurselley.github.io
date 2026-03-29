@@ -235,6 +235,63 @@ img {
   margin-bottom: 0.5rem;
 }
 
+/* === Accordion (details/summary) === */
+.page-content details {
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  margin-bottom: 0.625rem;
+}
+
+.page-content summary {
+  padding: 1rem 1.25rem;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 0.9375rem;
+  list-style: none;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  user-select: none;
+  gap: 1rem;
+}
+
+.page-content summary::-webkit-details-marker { display: none; }
+
+.page-content summary::after {
+  content: '+';
+  font-weight: 400;
+  font-size: 1.25rem;
+  color: var(--text-muted);
+  flex-shrink: 0;
+}
+
+.page-content details[open] > summary::after {
+  content: '−';
+}
+
+.page-content details[open] > summary {
+  border-bottom: 1px solid var(--border);
+}
+
+.page-content details > :not(summary) {
+  padding: 1.25rem 1.375rem;
+}
+
+.page-content details p {
+  font-size: 0.9rem;
+  line-height: 1.6;
+  color: var(--text-muted);
+  margin-bottom: 0.5rem;
+}
+
+.page-content details p:last-child {
+  margin-bottom: 0;
+}
+
+.page-content details strong {
+  color: var(--text);
+}
+
 /* === Pitch deck panels === */
 .pitchdeck-panels {
   display: flex;

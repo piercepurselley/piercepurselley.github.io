@@ -4,14 +4,23 @@ description: "Adults share their most embarrassing childhood diaries, letters, a
 category: "Live Show & Documentary"
 ---
 
-### Example Piece
+<details>
+<summary>Example Piece</summary>
 
 {{< youtube S-Fxq26c2SI >}}
 
-### Documentary Trailer
+</details>
+
+<details>
+<summary>Documentary Trailer</summary>
 
 {{< youtube x3DmdV9XByY >}}
 
-### Netflix Show Trailer
+</details>
+
+<details>
+<summary>Netflix Show Trailer</summary>
 
 {{< youtube ySm87c_GnjE >}}
+
+</details>
