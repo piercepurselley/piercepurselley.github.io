@@ -254,9 +254,34 @@ img {
   padding: 1.75rem 0;
 }
 
+.site-footer .container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 1rem;
+  flex-wrap: wrap;
+}
+
 .footer-copy {
   font-size: 0.85rem;
   color: var(--text-muted);
+}
+
+.footer-social {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+}
+
+.footer-social a {
+  color: var(--text-muted);
+  display: flex;
+  align-items: center;
+  transition: color 0.15s ease;
+}
+
+.footer-social a:hover {
+  color: var(--text);
 }
 
 /* === Responsive === */

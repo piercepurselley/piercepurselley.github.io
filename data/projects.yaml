@@ -9,11 +9,13 @@
   category: "Animated Short"
   description: "An animated short film."
   url: "/the-library/"
+  cover: "/img/the-library-cover.webp"
 
 - title: "Trash Panda"
   category: "Animated Pitch Deck"
   description: "An original animated series pitch."
   url: "/trash-panda/"
+  cover: "/img/trash-panda-cover.webp"
 
 - title: "Mortified Los Angeles"
   category: "Live Show & Documentary"
