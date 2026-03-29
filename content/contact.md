@@ -4,7 +4,6 @@ description: "Get in touch."
 ---
 
 <div class="contact-list">
-  <a href="mailto:ppurselley@gmail.com">ppurselley@gmail.com</a>
-  <a href="https://t.me/+12138604002" target="_blank" rel="noopener noreferrer">Telegram</a>
-  <a href="tel:+12138604002">213-860-4002</a>
+  <button class="copy-email" onclick="navigator.clipboard.writeText('ppurselley@gmail.com').then(function(){ var b = document.querySelector('.copy-email'); var orig = b.textContent; b.textContent = 'Copied!'; setTimeout(function(){ b.textContent = orig; }, 1500); })">ppurselley@gmail.com</button>
+  <span class="contact-phone">213-860-4002</span>
 </div>
