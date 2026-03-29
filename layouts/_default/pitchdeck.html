@@ -1,0 +1,17 @@
+{{ define "title" }}{{ .Title }} — {{ .Site.Title }}{{ end }}
+{{ define "main" }}
+<article class="content-page">
+  <div class="container">
+    <header class="page-header">
+      <p class="page-eyebrow">{{ .Params.category }}</p>
+      <h1 class="page-title">{{ .Title }}</h1>
+      {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
+    </header>
+    <div class="pitchdeck-panels">
+      {{ range .Resources.Match "panels/*.png" }}
+      <img src="{{ .RelPermalink }}" alt="{{ $.Title }} panel" loading="lazy">
+      {{ end }}
+    </div>
+  </div>
+</article>
+{{ end }}
