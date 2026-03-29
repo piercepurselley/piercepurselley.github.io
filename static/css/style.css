@@ -303,6 +303,38 @@ img {
   color: var(--text);
 }
 
+/* === Lightbox (CSS-only, :target) === */
+.lightbox-trigger img {
+  cursor: zoom-in;
+  border-radius: 4px;
+  max-width: 100%;
+  height: auto;
+  display: block;
+  margin-bottom: 1rem;
+}
+
+.lightbox {
+  display: none;
+  position: fixed;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.9);
+  z-index: 1000;
+  align-items: center;
+  justify-content: center;
+  cursor: zoom-out;
+}
+
+.lightbox:target {
+  display: flex;
+}
+
+.lightbox img {
+  max-width: 90vw;
+  max-height: 90vh;
+  object-fit: contain;
+  border-radius: 2px;
+}
+
 /* === Pitch deck panels === */
 .pitchdeck-panels {
   display: flex;

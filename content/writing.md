@@ -7,6 +7,8 @@ category: "Writing"
 <details>
 <summary>THE SWARMS — Adult Animation</summary>
 
+<a href="https://piercepurselley.github.io/WebComic/" target="_blank" rel="noopener noreferrer">View project →</a>
+
 **Log Line:** In 2025 Mexico City, biologist Dr. Sam and DEA Agent Johnson must solve a series of bizarre murders that reveal humanity's evolution into a parasitic collective consciousness — forcing them to choose between fighting this transformation or accepting our new symbiotic destiny.
 
 **Platform:** Premium cable (HBO) or streaming (Netflix) · Adults 18–49
@@ -19,6 +21,8 @@ category: "Writing"
 
 <details>
 <summary>TRASH PANDA — YA Animation</summary>
+
+<a href="/trash-panda/">View project →</a>
 
 **Log Line:** When socially anxious freshman Sascha transforms into a raccoon on move-in day at prestigious University of Texas, she must find the cure while navigating college life in her new form, or risk losing her scholarship, her new friendships, and her human identity forever.
 
@@ -58,6 +62,8 @@ category: "Writing"
 
 <details>
 <summary>THE LIBRARY — YA Animation</summary>
+
+<a href="/the-library/">View project →</a>
 
 **Log Line:** Following her librarian mother's mysterious death, 16-year-old Lily discovers she can physically enter the worlds of books her mother curated — a power that reveals clues about her mother's secret life and puts Lily's mental health at risk as the boundary between reality and fiction blurs.
 
@@ -123,6 +129,9 @@ category: "Writing"
 
 <details>
 <summary>LOUD HOUSE (SPEC) — YA Animation</summary>
+
+<a href="#loud-house-img" class="lightbox-trigger"><img src="/img/loud-house-snippet.webp" alt="Loud House — Talent Show Cold Open snippet"></a>
+<a href="#_" class="lightbox" id="loud-house-img"><img src="/img/loud-house-snippet.webp" alt="Loud House — Talent Show Cold Open snippet"></a>
 
 **Log Line:** When middle child Lincoln Loud learns about a family talent show with a prize that could finally get him his own room, he poses as a talent scout to sabotage his ten sisters' acts — only to discover the true prize is a family vacation that now might be ruined by his schemes.
 
