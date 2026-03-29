@@ -130,6 +130,8 @@ category: "Writing"
 <details>
 <summary>LOUD HOUSE (SPEC) — YA Animation</summary>
 
+<a href="/scripts/loud-house-talent-show-v1.pdf" class="btn" target="_blank" rel="noopener noreferrer">Read Script (PDF)</a>
+
 <a href="#loud-house-img" class="lightbox-trigger"><img src="/img/loud-house-snippet.webp" alt="Loud House — Talent Show Cold Open snippet"></a>
 <a href="#_" class="lightbox" id="loud-house-img"><img src="/img/loud-house-snippet.webp" alt="Loud House — Talent Show Cold Open snippet"></a>
 
