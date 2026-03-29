@@ -73,8 +73,11 @@ img {
   opacity: 0.75;
 }
 
-.page-content .btn {
+.page-content a.btn {
+  color: var(--bg);
+  text-decoration: none;
   margin-bottom: 1.5rem;
+  display: inline-block;
 }
 
 /* === Hero === */
