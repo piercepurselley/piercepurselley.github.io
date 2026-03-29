@@ -4,7 +4,7 @@ description: "Adults share their most embarrassing childhood diaries, letters, a
 category: "Live Show & Documentary"
 ---
 
-<p><a href="https://www.squadup.com/events/mortified-11" target="_blank" rel="noopener noreferrer">Tickets to next show!</a></p>
+<p><a href="https://www.squadup.com/events/mortified-11" class="btn" target="_blank" rel="noopener noreferrer">Tickets to next show!</a></p>
 
 <details>
 <summary>Example Piece</summary>

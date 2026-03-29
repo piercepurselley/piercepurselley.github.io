@@ -11,6 +11,7 @@
   --text: #111111;
   --text-muted: #666666;
   --border: #e5e5e5;
+  --link: #1d4ed8;
   --max-width: 1100px;
 }
 
@@ -55,6 +56,23 @@ img {
   letter-spacing: -0.01em;
 }
 
+/* === Button === */
+.btn {
+  display: inline-block;
+  padding: 0.6rem 1.25rem;
+  background: var(--text);
+  color: var(--bg);
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 0.9rem;
+  text-decoration: none;
+  transition: opacity 0.15s ease;
+}
+
+.btn:hover {
+  opacity: 0.75;
+}
+
 /* === Hero === */
 .hero {
   padding: clamp(3.5rem, 10vw, 7rem) 0 clamp(2rem, 5vw, 4rem);
@@ -66,6 +84,16 @@ img {
   font-weight: 400;
   max-width: 680px;
   color: var(--text);
+}
+
+.hero-bio a {
+  color: var(--link);
+  text-decoration: underline;
+  text-underline-offset: 3px;
+}
+
+.hero-bio a:hover {
+  opacity: 0.75;
 }
 
 /* === Projects === */
