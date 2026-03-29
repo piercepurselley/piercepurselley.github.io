@@ -100,6 +100,8 @@ Collaborated with comedian Rena Hundert.
 <details>
 <summary>DRAMA CAMP — YA Animation</summary>
 
+Collaborated with comedian Chrissy Shackelford.
+
 **Log Line:** When introverted 13-year-old Jess is forced to attend Drama Summer Camp by her well-meaning parents, she must overcome her social anxiety to perform in the camp showcase, while navigating theatrical personalities and discovering her own voice amid the chaos.
 
 **Platform:** Kids/Teen streaming (Disney+, Nickelodeon) · Tweens and young teens 11–14
