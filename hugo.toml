@@ -1,0 +1,9 @@
+baseURL = "https://piercepurselley.github.io/"
+title = "Pierce Purselley"
+languageCode = "en-us"
+
+[taxonomies]
+
+[params]
+  description = "Writer and Comedian in Los Angeles. Showrunner of Mortified Los Angeles."
+  bio = "Writer and Comedian in Los Angeles. Showrunner of Mortified Los Angeles."

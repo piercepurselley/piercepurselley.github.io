@@ -1,0 +1,28 @@
+{{ define "main" }}
+<section class="hero">
+  <div class="container">
+    <p class="hero-bio">{{ .Site.Params.bio }}</p>
+  </div>
+</section>
+
+<section class="projects-section">
+  <div class="container">
+    <p class="section-label">Projects</p>
+    <div class="projects-grid">
+      {{ range .Site.Data.projects }}
+      <a href="{{ .url }}" class="project-card"{{ if .external }} target="_blank" rel="noopener noreferrer"{{ end }}>
+        <div class="card-image">
+          <img src="{{ .cover }}" alt="{{ .title }}" loading="lazy">
+        </div>
+        <div class="card-body">
+          <span class="card-category">{{ .category }}</span>
+          <h2 class="card-title">{{ .title }}</h2>
+          <p class="card-description">{{ .description }}</p>
+          <span class="card-link">View project</span>
+        </div>
+      </a>
+      {{ end }}
+    </div>
+  </div>
+</section>
+{{ end }}
