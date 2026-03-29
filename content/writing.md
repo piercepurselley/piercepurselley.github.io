@@ -68,6 +68,8 @@ category: "Writing"
 <details>
 <summary>GOAT ROPE'ING — YA Animation</summary>
 
+<a href="/scripts/goat-roping-full-v4.pdf" class="btn" target="_blank" rel="noopener noreferrer">Read Full Script (PDF)</a>
+
 **Log Line:** When undersized 12-year-old rancher's son Wyatt pairs with the runt goat no one wanted for the county livestock show, they must overcome ridicule and self-doubt through training, forming a bond that teaches them both that championship spirit comes in all sizes.
 
 **Platform:** Family streaming (Disney+, Netflix) · Children 8–12 and their families
