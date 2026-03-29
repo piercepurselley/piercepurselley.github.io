@@ -66,7 +66,7 @@ category: "Writing"
 </details>
 
 <details>
-<summary>GOAT ROPE'ING — YA Animation</summary>
+<summary>GOAT ROPE'ING — Adult Animation</summary>
 
 <a href="/scripts/goat-roping-full-v4.pdf" class="btn" target="_blank" rel="noopener noreferrer">Read Full Script (PDF)</a>
 
@@ -154,7 +154,7 @@ Collaborated with comedian Gerard Dean Peters.
 </details>
 
 <details>
-<summary>NUNS OF FUN — Live Action</summary>
+<summary>NUNS OF FUN — Adult Claymation</summary>
 
 **Log Line:** When Sister Nora, the competent backbone of St. Catherine's crumbling nunnery, receives an unexpected inheritance and chance to pursue her abandoned dreams, she must choose between her duty to the disaster-prone nuns who depend on her and the life she always wanted outside the convent walls.
 
@@ -207,6 +207,10 @@ Collaborated with comedian Gerard Dean Peters.
 <summary>MEDMEN — Live Action</summary>
 
 Collaborated with Gerard Dean Peters.
+
+**Log Line:** Entering the workforce with a useless marketing degree, DEAN, has to save money for his family while keeping up the "fuck the system" persona.
+
+**Platform:** Streaming (Prime Video) · Adults 18–49
 
 </details>
 
