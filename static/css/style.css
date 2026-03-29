@@ -345,7 +345,7 @@ img {
 .lightbox-trigger img {
   cursor: zoom-in;
   border-radius: 4px;
-  max-width: 100%;
+  width: 120px;
   height: auto;
   display: block;
   margin-bottom: 1rem;
