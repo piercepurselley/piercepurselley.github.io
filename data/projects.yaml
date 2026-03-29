@@ -4,3 +4,24 @@
   url: "https://piercepurselley.github.io/WebComic/"
   cover: "https://piercepurselley.github.io/WebComic/img/episode-01/001_800.webp"
   external: true
+
+- title: "The Library"
+  category: "Animated Short"
+  description: "An animated short film."
+  url: "/the-library/"
+
+- title: "Trash Panda"
+  category: "Animated Pitch Deck"
+  description: "An original animated series pitch."
+  url: "/trash-panda/"
+
+- title: "Mortified Los Angeles"
+  category: "Live Show & Documentary"
+  description: "Adults share their most embarrassing childhood diaries, letters, and songs in front of complete strangers."
+  url: "/mortified/"
+  cover: "https://img.youtube.com/vi/ySm87c_GnjE/hqdefault.jpg"
+
+- title: "Further Writing Portfolio"
+  category: "Writing"
+  description: "Scripts, essays, and other work."
+  url: "/writing/"

@@ -4,6 +4,11 @@ languageCode = "en-us"
 
 [taxonomies]
 
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
 [params]
   description = "Writer and Comedian in Los Angeles. Showrunner of Mortified Los Angeles."
   bio = "Writer and Comedian in Los Angeles. Showrunner of Mortified Los Angeles."

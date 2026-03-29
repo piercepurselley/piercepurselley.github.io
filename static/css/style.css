@@ -172,6 +172,69 @@ img {
   transform: translateX(3px);
 }
 
+/* === Card placeholder (no cover image) === */
+.card-image--placeholder {
+  background: #1c1c1c;
+}
+
+/* === Content pages (mortified, library, writing, etc.) === */
+.content-page {
+  padding: clamp(3rem, 8vw, 5rem) 0 clamp(4rem, 10vw, 7rem);
+}
+
+.page-eyebrow {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 0.75rem;
+}
+
+.page-title {
+  font-size: clamp(1.75rem, 5vw, 3rem);
+  font-weight: 600;
+  letter-spacing: -0.03em;
+  line-height: 1.1;
+  margin-bottom: 0.75rem;
+}
+
+.page-description {
+  font-size: 1.0625rem;
+  color: var(--text-muted);
+  max-width: 600px;
+  line-height: 1.55;
+  margin-bottom: 0;
+}
+
+.page-header {
+  padding-bottom: clamp(2rem, 5vw, 3.5rem);
+  border-bottom: 1px solid var(--border);
+  margin-bottom: clamp(2rem, 5vw, 3.5rem);
+}
+
+.page-content h3 {
+  font-size: 0.7rem;
+  font-weight: 600;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  margin-bottom: 1rem;
+  margin-top: 2.5rem;
+}
+
+.page-content h3:first-child {
+  margin-top: 0;
+}
+
+.page-content iframe {
+  width: 100%;
+  aspect-ratio: 16 / 9;
+  border: none;
+  border-radius: 4px;
+  margin-bottom: 0.5rem;
+}
+
 /* === Footer === */
 .site-footer {
   border-top: 1px solid var(--border);

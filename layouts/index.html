@@ -11,8 +11,8 @@
     <div class="projects-grid">
       {{ range .Site.Data.projects }}
       <a href="{{ .url }}" class="project-card"{{ if .external }} target="_blank" rel="noopener noreferrer"{{ end }}>
-        <div class="card-image">
-          <img src="{{ .cover }}" alt="{{ .title }}" loading="lazy">
+        <div class="card-image{{ if not .cover }} card-image--placeholder{{ end }}">
+          {{ if .cover }}<img src="{{ .cover }}" alt="{{ .title }}" loading="lazy">{{ end }}
         </div>
         <div class="card-body">
           <span class="card-category">{{ .category }}</span>
