@@ -23,6 +23,11 @@
   url: "/trash-panda/"
   cover: "/img/trash-panda-cover.webp"
 
+- title: "Doom Scrolling"
+  category: "Live Action & Animation"
+  description: "A live action and animated sketch show."
+  url: "/doom-scrolling/"
+
 - title: "Mortified Los Angeles"
   category: "Live Show & Documentary"
   description: "Adults share their most embarrassing childhood diaries, letters, and songs in front of complete strangers."
