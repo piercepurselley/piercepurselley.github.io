@@ -35,7 +35,7 @@ category: "Writing"
 </details>
 
 <details>
-<summary>THE LIBRARY — YA Animation</summary>
+<summary>SUMMER READING LIST — YA Animation</summary>
 
 <a href="/the-library/">View project →</a>
 

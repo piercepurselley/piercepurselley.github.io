@@ -11,7 +11,10 @@
   <header class="site-header">
     <div class="container">
       <a href="{{ "/" | relURL }}" class="site-name">{{ .Site.Title }}</a>
-      <a href="{{ "/contact/" | relURL }}" class="site-contact">Contact</a>
+      <nav class="site-nav">
+        <a href="{{ "/bio/" | relURL }}" class="site-nav-link">Bio</a>
+        <a href="{{ "/contact/" | relURL }}" class="site-nav-link">Contact</a>
+      </nav>
     </div>
   </header>
 

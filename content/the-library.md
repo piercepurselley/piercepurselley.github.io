@@ -1,5 +1,5 @@
 ---
-title: "The Library"
+title: "Summer Reading List"
 description: "An animated short film."
 category: "Animated Short"
 ---
