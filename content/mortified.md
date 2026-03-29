@@ -21,7 +21,7 @@ category: "Live Show & Documentary"
 </details>
 
 <details>
-<summary>Netflix Show Trailer</summary>
+<summary>Netflix TV Show Trailer</summary>
 
 {{< youtube ySm87c_GnjE >}}
 
