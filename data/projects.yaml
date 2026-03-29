@@ -1,3 +1,9 @@
+- title: "Writing Portfolio"
+  category: "Writing"
+  description: "Scripts, essays, and other work."
+  url: "/writing/"
+  cover: "/img/writing-cover.webp"
+
 - title: "THE SWARMS"
   category: "Webcomic"
   description: "A free webcomic. Evolution has a new pattern."
@@ -22,8 +28,3 @@
   description: "Adults share their most embarrassing childhood diaries, letters, and songs in front of complete strangers."
   url: "/mortified/"
   cover: "https://img.youtube.com/vi/ySm87c_GnjE/hqdefault.jpg"
-
-- title: "Writing Portfolio"
-  category: "Writing"
-  description: "Scripts, essays, and other work."
-  url: "/writing/"

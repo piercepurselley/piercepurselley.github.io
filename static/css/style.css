@@ -235,6 +235,17 @@ img {
   margin-bottom: 0.5rem;
 }
 
+/* === Page content links === */
+.page-content a {
+  color: var(--text);
+  text-decoration: underline;
+  text-underline-offset: 2px;
+}
+
+.page-content a:hover {
+  opacity: 0.7;
+}
+
 /* === Accordion (details/summary) === */
 .page-content details {
   border: 1px solid var(--border);
