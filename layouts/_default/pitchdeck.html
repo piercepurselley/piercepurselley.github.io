@@ -8,7 +8,7 @@
       {{ with .Description }}<p class="page-description">{{ . }}</p>{{ end }}
     </header>
     <div class="pitchdeck-panels">
-      {{ range .Resources.Match "panels/*.png" }}
+      {{ range .Resources.Match "panels/*.webp" }}
       <img src="{{ .RelPermalink }}" alt="{{ $.Title }} panel" loading="lazy">
       {{ end }}
     </div>

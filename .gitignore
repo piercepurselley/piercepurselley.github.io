@@ -3,5 +3,8 @@ public/
 resources/
 .hugo_build.lock
 
+# Source images (commit WebP, not raw PNGs)
+content/**/panels/*.png
+
 # OS
 .DS_Store
