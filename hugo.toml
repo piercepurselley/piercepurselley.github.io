@@ -10,5 +10,5 @@ languageCode = "en-us"
       unsafe = true
 
 [params]
-  description = "Writer and Comedian in Los Angeles. Mortified Los Angeles Showrunner."
-  bio = "Writer and Comedian in Los Angeles.<br><br><a href=\"https://getmortified.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Mortified Los Angeles</a> Showrunner."
+  description = "Writer and Comedian. Mortified Los Angeles Showrunner."
+  bio = "Writer and Comedian.<br><br><a href=\"https://getmortified.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Mortified Los Angeles</a> Showrunner."
